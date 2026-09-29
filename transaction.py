@@ -49,7 +49,7 @@ while True:
             result = github.createRepository(name)
             print(result) 
         else:
-            print('yanlış seçim') 
+            print('yanlış seçim lütefen cevabınızı kontrol edin') 
   
 
 
